@@ -20,7 +20,7 @@ export class GroceriesServiceProvider {
 
     private dataChangeSubject: Subject<boolean>;
 
-    baseURL = "http://localhost:8080";
+    baseURL = "https://groceries-server-h.herokuapp.com";
 
   constructor(public http: HttpClient) {
     console.log('GroceriesServiceProvider Provider Started');

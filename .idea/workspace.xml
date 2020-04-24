@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="448f66c2-c632-41b8-9028-a077ec6e36e1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.sourcemaps/main.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/.sourcemaps/main.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-android/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/cordova-android/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/cordova-ios/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/build/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/build/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/build/main.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/build/main.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/build/vendor.js" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/build/vendor.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/build/vendor.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/build/vendor.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/frameworks.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/groceries.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/ios/groceries.xcodeproj/project.pbxproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/groceries/Plugins/cordova-plugin-x-socialsharing/NSString+SSURLEncoding.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/groceries/Plugins/cordova-plugin-x-socialsharing/NSString+SSURLEncoding.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/groceries/Plugins/cordova-plugin-x-socialsharing/SocialSharing.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/groceries/Plugins/cordova-plugin-x-socialsharing/SocialSharing.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/groceries/config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/ios/groceries/config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/groceries/groceries-Info.plist" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/ios/groceries/groceries-Info.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/ios.json" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/ios/ios.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/platform_www/cordova_plugins.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/platform_www/plugins/cordova-plugin-x-socialsharing/www/SocialSharing.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/platform_www/plugins/es6-promise-plugin/www/promise.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/www/cordova_plugins.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/www/plugins/cordova-plugin-x-socialsharing/www/SocialSharing.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/www/plugins/es6-promise-plugin/www/promise.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/ios.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/build/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/www/build/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/build/main.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/www/build/main.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/build/vendor.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/www/build/vendor.js.map" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1aPd2GHR6ZoQjXX4pXS4dD99OJs" />
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="448f66c2-c632-41b8-9028-a077ec6e36e1" name="Default Changelist" comment="" />
+      <created>1586640954185</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586640954185</updated>
+    </task>
+    <servers />
+  </component>
+</project>
